@@ -2,3 +2,4 @@ Conocimientos previos:
   - Desarrollo de aplicaciones de escritorio en VB .NET.
   - Diseño y gestión de bases de datos relacionales.
   - Metodologías Agile
+  - Trato con clientes
