@@ -2,3 +2,4 @@ Objetivos que quiero cumplir en este máster:
 
   - Iniciar una actualización profesional para poder afrontar aplicaciones web, no sólo de escritorio
   - Ampliar conocimientos sobre bases de datos no relacionales, ya que sólo he trabajado con relacionales
+  - Obtener una titulación que refleje esta formación en el caso de hacer un cambio de puesto de trabajo
